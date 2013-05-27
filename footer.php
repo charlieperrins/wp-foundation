@@ -5,7 +5,7 @@
 			<div class="row">
 				<div class="large-8 columns">
 					<div class="footer-bio">
-						<p>This is my little corner of the internet. It's never really been finished. I play around here at the weekends and experiment with things that aren't ready for me to use out in the real world.</p>
+						<p>This is my little corner of the internet. It's never really been finished. I play around here at the weekends and sometimes experiment with things that aren't ready for me to use out in the real world.</p>
 					</div>
 				</div>
 				<div class="large-4 columns">
