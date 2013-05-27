@@ -3,9 +3,10 @@
 <!--[if gt IE 8]><!--><html class="no-js" lang="en" > <!--<![endif]-->
 
 <head>
+	<!-- INVISIBLE TEST CHANGE -->
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width" />
-	<title>TEST TEST</title>
+	<title><!-- All in one SEO package takes care of titles --></title>
 	<link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/css/foundation.css" />
 	<link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/css/style.css" />
 	<script src="<?php bloginfo('template_url'); ?>/js/vendor/custom.modernizr.js"></script>
