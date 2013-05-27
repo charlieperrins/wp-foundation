@@ -5,7 +5,7 @@
 <head>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width" />
-	<title>WP TITLE HERE</title>
+	<title>TEST TEST</title>
 	<link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/css/foundation.css" />
 	<link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/css/style.css" />
 	<script src="<?php bloginfo('template_url'); ?>/js/vendor/custom.modernizr.js"></script>
