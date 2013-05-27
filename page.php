@@ -9,7 +9,7 @@
 				<article class="post">
 					<header class="row">
 						<div class="large-12 small-12 columns">
-							<h2><?php the_title(); ?></h2>
+							<h1><?php the_title(); ?></h1>
 						</div>
 					</header>
 

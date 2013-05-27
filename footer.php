@@ -12,7 +12,7 @@
 					<ul class="side-nav">
 					<?php wp_list_pages('title_li='); ?>
 					</ul>
-					<p>&copy; Charlie Perrins <?php echo date('Y'); ?></p>
+					<p><small>&copy; Charlie Perrins <?php echo date('Y'); ?></small></p>
 				</div>
 			</div>
 		</div>

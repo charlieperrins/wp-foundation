@@ -9,7 +9,7 @@
 				<article class="post">
 					<header class="row">
 						<div class="large-10 small-10 columns">
-							<h2><?php the_title(); ?></h2>
+							<h1><?php the_title(); ?></h1>
 						</div>
 						<div class="large-2 small-2 columns">
 							<p class="post-date">

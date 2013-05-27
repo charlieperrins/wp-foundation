@@ -3,10 +3,9 @@
 <!--[if gt IE 8]><!--><html class="no-js" lang="en" > <!--<![endif]-->
 
 <head>
-	<!-- INVISIBLE TEST CHANGE -->
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width" />
-	<title><!-- All in one SEO package takes care of titles --></title>
+	<title></title>
 	<link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/css/foundation.css" />
 	<link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/css/style.css" />
 	<script src="<?php bloginfo('template_url'); ?>/js/vendor/custom.modernizr.js"></script>
@@ -20,7 +19,11 @@
 	<header class="page-header">
 		<div class="row">			
 			<div class="large-12 columns">
+				<?php if (is_home()) : ?>
 				<h1 class="page-logo"><a href="<? bloginfo('url'); ?>">CHARLIE PERRINS<small>.COM</small></a></h1>
+				<?php else : ?>
+				<span class="page-logo"><a href="<? bloginfo('url'); ?>">CHARLIE PERRINS<small>.COM</small></a></span>
+				<?php endif; ?>
 			</div>
 		</div>				
 	</header>
