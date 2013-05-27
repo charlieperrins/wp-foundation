@@ -157,6 +157,14 @@ h1, h2, h3, h4 {
 	letter-spacing: 0.1em;
 }
 
+.post pre {
+	background: #eee;
+	border: 1px solid #bbb;
+	border-radius: 0.5em;
+	padding: 1em;
+	margin-bottom: 1em;
+}
+
 /* Styles for screens that are atleast 768px; */
 @media only screen and (min-width: 48em) {
 
